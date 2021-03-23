@@ -1,6 +1,6 @@
 # Tableau
 
-## Why Tableau?**
+## Why Tableau?
 1. Uses visualization best practices and outputs graphs faster than other tools such as excel.
 2. Is made for big data
 3. Easy to make Dashboards ( gives you a glance of key business metrics or indicators in real time)
