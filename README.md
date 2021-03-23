@@ -1,4 +1,5 @@
 # Tableau
+Data Visualization and Communication with Tableau by Duke University 
 
 ## Why Tableau?
 1. Uses visualization best practices and outputs graphs faster than other tools such as excel.
